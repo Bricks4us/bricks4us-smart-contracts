@@ -1,3 +1,7 @@
+
+<img src="https://www.bricks4us.io/wp-content/uploads/2017/12/LOGOblanco.png" alt="BRICKS4US INFO" width="500px"
+ height="auto">
+ 
 **BRICKS4US Smart Contract**
 
 **Contracts Description**
