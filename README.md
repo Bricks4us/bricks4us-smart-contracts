@@ -2,6 +2,12 @@
 <img src="https://www.bricks4us.io/wp-content/uploads/2017/12/LOGOblanco.png" alt="BRICKS4US INFO" width="500px"
  height="auto">
  
+**Audit Token**
+
+- **Audit** : This branch include Coinfabrik Audit fixes for the token sale. 
+
+
+
 **BRICKS4US Smart Contract**
 
 **Contracts Description**
@@ -50,4 +56,4 @@ Bricks4us allows the participation of crypto currency investors in real estate p
 
 - **Cryptocurrency Investment** : Cryptocurrency participation in any Bricks4us model.
 
-**Diagram**
+
