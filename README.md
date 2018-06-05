@@ -31,7 +31,7 @@ Bricks4us allows the participation of crypto currency investors in real estate p
 - **KYC/AML process** : Standard validation for the identification of people and origin of resources for participation as a cryptocurrency investor.
 - **Token Purchase** : System based on Blockchain technology for the purchase and sale of Bricks4us Tokenfrom the public accounts of Ethereum.
 
-**System Characteristics       **
+**System Characteristics**
 
 - **Security** : System that benefits from the experience of Blockchain technology and intelligent contracts to be applied and adapted to the Bricks4usinternal software, as well as tools such as KYC/AML to guarantee security against the participants as cryptocurrency investors.
 - **Traceability** : Capture of internal relevant data that will allow tracking due to processes, records and interactions with the system.
@@ -50,4 +50,6 @@ Bricks4us allows the participation of crypto currency investors in real estate p
 
 - **Cryptocurrency Investment** : Cryptocurrency participation in any Bricks4us model.
 
-**Diagram**
+**Audit Token**
+
+- **Audit** : Bricks4us team engaged Coinfabrik to audit the smart contracts for the token sale. Contracts were audit and the new branch with fixes is : https://github.com/Bricks4us/bricks4us-smart-contracts/tree/Bricks4us-patch-1
